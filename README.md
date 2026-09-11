@@ -234,4 +234,4 @@ This repository serves as the official landing page for LibreCAD. The software i
 **Get the most recent version of LibreCAD today!**
 
 ---
-**Last updated:** 2026-09-11 08:51:00 UTC
+**Last updated:** 2026-09-11 13:25:21 UTC
